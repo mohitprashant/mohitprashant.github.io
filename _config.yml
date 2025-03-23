@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Mohit's Website"
 title_separator          : "-"
 name                     : &name "Mohit Prashant"
-description              : &description "personal description"
+description              : &description "Mohit's Website"
 url                      : https://mohitprashant.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mohitprashant/mohitprashant.github.io"
@@ -33,11 +33,11 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=X2E8Cs8AAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-3893-4303"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
