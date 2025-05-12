@@ -25,7 +25,7 @@ author:
   avatar           : "bio-photo.jpg"
   name             : "Mohit Prashant"
   pronouns         : # example: "he/him"  
-  bio              : "I am an AI researcher with a focus in ML safety and risk. My PhD work is in deriving probabilistic guarantees for RL via learning theory (PAC framework)."
+  bio              : "I am an AI researcher with a focus in machine learning safety and risk. My PhD work is in deriving probabilistic guarantees for RL systems and agents using learning theory (PAC framework)."
   location         : "Singapore"
   employer         : "Nanyang Technological University"
   uri              : # URL
