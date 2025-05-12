@@ -1,5 +1,5 @@
 ---
-title: "Operating Systems"
+title: "Operating Systems (SC2005)"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/operating-systems
