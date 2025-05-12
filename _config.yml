@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "About Me"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Mohit Prashant"
 description              : &description "Mohit's Website"
