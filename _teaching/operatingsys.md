@@ -10,11 +10,12 @@ location: "Nanyang Technological University, Singapore"
 
 Worked as a teaching assistant in preparing, teaching and assessing the undergraduate course on operating systems.
 
-Heading 1
+Laboratory Classes
 ======
+Lab Classes are conducted using the NachOS virtual operating system, written and deployed in C. Students are to implement various components of the OS (i.e. threading, scheduling, paging...) and submit their answers via the provided link.
 
-Heading 2
-======
 
-Heading 3
+NachOS
 ======
+A modified fork of the NachOS project is available here:
+[NachOS GitHub Page](https://github.com/mohitprashant/nachos-project)
