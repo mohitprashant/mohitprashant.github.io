@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<embed src="{{ site.baseurl }}/files/Resume - Mohit Prashant (PhD, AI).pdf" width="600" height="700" type='application/pdf'>
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
