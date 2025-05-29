@@ -12,11 +12,13 @@ redirect_from:
 <embed src="{{ site.baseurl }}/files/Resume - Mohit Prashant (PhD, AI).pdf" width="800" height="1000" type='application/pdf'>
 
 
+
+
 Education
 ======
-* Ph.D in Computer Science, Nanyang Technological University, 2025 (expected)
+* __Ph.D in Computer Science__, _Nanyang Technological University, 2025_ (expected)
   * Thesis in probabilistic guarantees for reinforcement learning
-* B.Eng. in Computer Science, Honours (Distinction), Nanyang Technological University, 2021
+* __B.Eng. in Computer Science, Honours (Distinction)__, _Nanyang Technological University, 2021_
   * Specializations in Data Science and Artificial Intelligence
 
 
@@ -41,7 +43,7 @@ Work experience
 
 Skills
 ======
-> Programming (C++, Python, Java), Linux, Quantitative Analysis, Research, Prob/Stats, Machine Learning (SKLearn, Pytorch, TF)
+> Programming (C++, Python, Java), Linux, Quantitative Analysis, Research, Machine Learning
 
 
 
