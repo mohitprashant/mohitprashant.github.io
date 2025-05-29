@@ -9,13 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="{{ site.baseurl }}/files/Resume - Mohit Prashant (PhD, AI).pdf" width="600" height="700" type='application/pdf'>
+<embed src="{{ site.baseurl }}/files/Resume - Mohit Prashant (PhD, AI).pdf" width="800" height="1000" type='application/pdf'>
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science (Machine Learning), Nanyang Technological University, 2025 (expected)
+* B.Eng. in Computer Science (Data Science and Artificial Intelligence), Nanyang Technological University, 2021
 
 Work experience
 ======
@@ -63,4 +62,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Served as reviewer in AAAI, ICML, IJCAI, AAMAS, Transactions in AI and others
+* Red Cross Singapore Volunteer, 2020-
+* Red Cross Youth Officer, 2018-2019
+
