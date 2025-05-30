@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+> Downloadable CV available [here](https://mohitprashant.github.io/cv/#bottom).
 
 Education
 ======
@@ -69,5 +70,5 @@ Service and leadership
 
 
 
-
+<div id="bottom"></div>
 <embed src="{{ site.baseurl }}/files/Resume - Mohit Prashant (PhD, AI).pdf" width="800" height="1000" type='application/pdf'>
