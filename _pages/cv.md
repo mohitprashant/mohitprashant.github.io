@@ -69,6 +69,7 @@ Service and leadership
 * Red Cross Youth Officer, 2018-2019
 
 
-
+CV as a PDF
+======
 <div id="bottom"></div>
 <embed src="{{ site.baseurl }}/files/Resume - Mohit Prashant (PhD, AI).pdf" width="800" height="1000" type='application/pdf'>
