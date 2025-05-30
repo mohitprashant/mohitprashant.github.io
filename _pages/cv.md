@@ -9,10 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="{{ site.baseurl }}/files/Resume - Mohit Prashant (PhD, AI).pdf" width="800" height="1000" type='application/pdf'>
-
-
-
 
 Education
 ======
@@ -71,3 +67,7 @@ Service and leadership
 * Red Cross Singapore Volunteer, 2020-
 * Red Cross Youth Officer, 2018-2019
 
+
+
+
+<embed src="{{ site.baseurl }}/files/Resume - Mohit Prashant (PhD, AI).pdf" width="800" height="1000" type='application/pdf'>
