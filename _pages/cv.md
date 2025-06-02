@@ -40,7 +40,7 @@ Work experience
 
 Skills
 ======
-> Programming (C++, Python, Java), Linux, Quantitative Analysis, Research, Machine Learning
+> `Programming (C++, Python, Java)`, `Linux`, `Quantitative Analysis`, `Research`, `Machine Learning`
 
 
 
