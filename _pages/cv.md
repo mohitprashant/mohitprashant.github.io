@@ -62,9 +62,10 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+
 Service and leadership
 ======
-* Served as reviewer in AAAI, ICML, IJCAI, AAMAS, Transactions in AI and others
+* Served as reviewer in `AAAI`, `ICML`, `IJCAI`, `AAMAS`, `Transactions in AI` and others
 * Red Cross Singapore Volunteer, 2020-
 * Red Cross Youth Officer, 2018-2019
 
