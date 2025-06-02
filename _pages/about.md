@@ -33,6 +33,9 @@ Feel free to reach out to me via any of my socials if you'd like to ping me abou
 __Computing subgoal decision in complex environments Like _MineCraft_ based on semantics__
 {: .notice}
 
+__RL agent solutions to Tetris and LunarLander__
+{: .notice}
+
 
 <head>
     <style>
@@ -64,8 +67,7 @@ __Computing subgoal decision in complex environments Like _MineCraft_ based on s
 </body>
 
 
-__RL agent solutions to Tetris and LunarLander__
-{: .notice}
+
 
 
 Recent Updates
