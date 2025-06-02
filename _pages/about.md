@@ -28,9 +28,6 @@ I also volunteer with local community service organizations in my free time.
 
 Feel free to reach out to me via any of my socials if you'd like to ping me about research ideas, collaborations or clarifications.
 
-<img src="/images/tetrisbot.gif" style="display:inline-block;">
-
-
 <head>
     <style>
         .column {
@@ -40,7 +37,7 @@ Feel free to reach out to me via any of my socials if you'd like to ping me abou
         }
 
         img {
-            width: 80%
+            width: 90%
         }
     </style>
 </head>
@@ -50,7 +47,7 @@ Feel free to reach out to me via any of my socials if you'd like to ping me abou
         <img src="/images/tetrisbot.gif">
     </div>
     <div class="column">
-        <img src="/images/bio-photo.jpg">
+        <img src="/images/LunarLander.gif">
     </div>
 </body>
 
