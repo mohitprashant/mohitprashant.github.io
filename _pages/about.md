@@ -47,7 +47,7 @@ __RL agent solutions to Tetris and LunarLander__
 
         .column2 {
             float: left;
-            width: 55%;
+            width: 57%;
 
         }
 
