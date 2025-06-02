@@ -36,9 +36,15 @@ __Computing subgoal decision in complex environments Like _MineCraft_ based on s
 
 <head>
     <style>
-        .column {
+        .column1 {
             float: left;
-            width: 47%;
+            width: 35%;
+
+        }
+
+        .column2 {
+            float: left;
+            width: 60%;
 
         }
 
@@ -49,16 +55,16 @@ __Computing subgoal decision in complex environments Like _MineCraft_ based on s
 </head>
 
 <body>
-    <div class="column">
+    <div class="column1">
         <img src="/images/tetrisbot.gif">
     </div>
-    <div class="column">
+    <div class="column2">
         <img src="/images/LunarLander.gif">
     </div>
 </body>
 
 
-__RL agent solutions to Tetris and LunarLander__
+__RL agent solutions to _Tetris_ and _LunarLander_ __
 {: .notice}
 
 
