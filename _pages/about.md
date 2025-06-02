@@ -20,10 +20,10 @@ I am currently investigating probabilistic guarantees within adversarial multi-a
 <img src='/images/MinecraftRL.png'>
 <div class="row">
   <div class="column">
-    <img src="/images/tetrisbot.gif" style="width:100%">
+    <img src="/images/tetrisbot.gif" style="width:50%">
   </div>
   <div class="column">
-    <img src="/images/bio-photo.jpg" style="width:100%">
+    <img src="/images/bio-photo.jpg" style="width:50%">
   </div>
 </div>
 
