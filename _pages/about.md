@@ -18,6 +18,10 @@ Some of the research problems I've worked on include improving [theoretical samp
 I am currently investigating probabilistic guarantees within adversarial multi-agent systems.
 
 <img src='/images/MinecraftRL.png'>
+<figure>
+  <img src="/images/tetrisbot.gif">
+  <figcaption>RL-Based Agents for Games</figcaption>
+</figure>
 
 My Interests
 ------
