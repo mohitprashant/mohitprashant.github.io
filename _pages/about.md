@@ -18,14 +18,8 @@ Some of the research problems I've worked on include improving [theoretical samp
 I am currently investigating probabilistic guarantees within adversarial multi-agent systems.
 
 <img src='/images/MinecraftRL.png'>
-<div class="row">
-  <div class="column">
-    <img src="/images/tetrisbot.gif" style="width:47%">
-  </div>
-  <div class="column">
-    <img src="/images/bio-photo.jpg" style="width:47%">
-  </div>
-</div>
+> Computing subgoal decision in complex environments Like MineCraft based on semantic identification
+
 
 My Interests
 ------
@@ -34,7 +28,10 @@ I also volunteer with local community service organizations in my free time.
 
 Feel free to reach out to me via any of my socials if you'd like to ping me about research ideas, collaborations or clarifications.
 
+<img src="/images/tetrisbot.gif" style="display:inline-block;">
+<img src="/images/bio-photo.jpg" style="display:inline-block;">
 
+> RL agent solutions to Tetris and LunarLander
 
 
 Recent Updates
