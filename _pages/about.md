@@ -17,7 +17,7 @@ Some of the research problems I've worked on include improving [theoretical samp
 
 I am currently investigating probabilistic guarantees within adversarial multi-agent systems.
 
-
+<img src='/images/MinecraftRL.png'>
 
 My Interests
 ------
@@ -30,11 +30,6 @@ Feel free to reach out to me via any of my socials if you'd like to ping me abou
 
 
 Recent Updates
-======
-
-
-
-Ongoing Research Work
 ======
 
 
