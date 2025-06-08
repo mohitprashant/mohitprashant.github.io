@@ -21,20 +21,20 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Aug 2019 - : ML Researcher
+  * Nanyang Technological University
+  * Duties includes: scientific research and teaching assistant work
+  * Notable achievements: see **publications**, **talks** and **teaching**
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2021 – Oct 2021 : Data Scientist (intern)
+  * Munich Reinsurance
+  * Duties included: data cleaning, consulting, building ML pipelines for fraud detection
+  * Notable achievements: built pricing and risk models using geospatial data
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2015: Data Scientist/Software Engineer (intern)
+  * ST Engineering Land Systems
+  * Duties included: experimenting on image processing and building simulation tools
+  * Notable achievements: developed open source threading and parsing libraries
   
 
 
