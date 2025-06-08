@@ -21,18 +21,18 @@ Education
 
 Work experience
 ======
-* Aug 2019 - : ML Researcher
-  * Nanyang Technological University
+* **Aug 2019 - **: ML Researcher
+  * _Nanyang Technological University_
   * Duties includes: scientific research and teaching assistant work
   * Notable achievements: see **publications**, **talks** and **teaching**
 
-* May 2021 – Oct 2021 : Data Scientist (intern)
-  * Munich Reinsurance
+* **May 2021 – Oct 2021**: Data Scientist (intern)
+  * _Munich Reinsurance_
   * Duties included: data cleaning, consulting, building ML pipelines for fraud detection
   * Notable achievements: built pricing and risk models using geospatial data
 
-* Summer 2015: Data Scientist/Software Engineer (intern)
-  * ST Engineering Land Systems
+* **Aug 2020 – Dec 2020**: Data Scientist/Software Engineer (intern)
+  * _ST Engineering Land Systems_
   * Duties included: experimenting on image processing and building simulation tools
   * Notable achievements: developed open source threading and parsing libraries
   
