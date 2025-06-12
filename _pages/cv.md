@@ -21,7 +21,7 @@ Education
 
 Work experience
 ======
-* **Aug 2019 - **: ML Researcher
+* **Aug 2019 –**: ML Researcher
   * _Nanyang Technological University_
   * Duties includes: scientific research and teaching assistant work
   * Notable achievements: see **publications**, **talks** and **teaching**
