@@ -1,7 +1,7 @@
 ---
 title: "Guaranteeing Out-Of-Distribution Detection in Deep RL via Transition Estimation"
 collection: publications
-category: Publications
+category: manuscripts
 permalink: /publication/2025-03-01-OOD-RL-AAAI
 excerpt: 'We provide a basis for defining out-of-distribution execution in RL and provide a framework for detection with guarantees.'
 date: 2025-03-01
