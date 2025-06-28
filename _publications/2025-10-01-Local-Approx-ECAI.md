@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-10-01-Local-Approx-ECAI
 excerpt: 'We provide tighter sample-complexity bounds for reinforcement learning on metric spaces through local approximation and provide a respective algorithm for more efficient learning.'
-date: 2025-03-01
+date: 2025-10-01
 venue: 'Proceedings of the ECAI Conference on Artificial Intelligence'
 paperurl: 'TBP'
 citation: 'Preprint'
