@@ -6,7 +6,7 @@ permalink: /publication/2025-03-01-OOD-RL-AAAI
 excerpt: 'We provide a basis for defining out-of-distribution execution in RL and provide a framework for detection with guarantees.'
 date: 2025-03-01
 venue: 'Proceedings of the AAAI Conference on Artificial Intelligence'
-paperurl: 'https://ojs.aaai.org/index.php/AAAI/article/view/33357'
+paperurl: 'https://mohitprashant.github.io/files/AAAI2025.pdf'
 citation: 'Prashant, Mohit, et al. &quot;Guaranteeing Out-Of-Distribution Detection in Deep RL via Transition Estimation&quot;. <i>Proceedings of the AAAI Conference on Artificial Intelligence</i>. Vol. 39. No. 12. 2025.'
 ---
 

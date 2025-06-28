@@ -6,7 +6,7 @@ permalink: /publication/2022-11-01-PAC-OOD-IEEE
 excerpt: 'We present a technique for detecting OOD instances in autonomous driving with PAC guarantees.'
 date: 2022-11-01
 venue: 'IEEE International Conference on System Reliability and Safety'
-paperurl: 'https://arxiv.org/pdf/2304.01592'
+paperurl: 'https://mohitprashant.github.io/files/ICSRS2022.pdf'
 citation: 'Prashant, Mohit, and Arvind Easwaran. &quot;PAC-Based Formal Verification for Out-of-Distribution Data Detection.&quot; <i>2022 6th International Conference on System Reliability and Safety (ICSRS)</i>. IEEE, 2022.'
 ---
 
